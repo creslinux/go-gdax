@@ -1,4 +1,4 @@
-package gdax
+package testgdax
 
 import (
 	"encoding/json"
