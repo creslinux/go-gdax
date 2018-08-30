@@ -1,4 +1,4 @@
-package gdax
+package testgdax
 
 type Error struct {
 	Message string `json:"message"`
